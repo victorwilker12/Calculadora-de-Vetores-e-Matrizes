@@ -202,7 +202,7 @@ void MenuVetor(){
 	}while(CodMenuVetor!=6); //MENU VETOR
 }
 
-//////////////////////////////////////////////////// menu matrizes:
+// menu matrizes:
 void MenuMatriz(){
 	// variaveis do menu matriz
 	int CodMenuMatriz;
@@ -458,6 +458,8 @@ int main(){
 		1.0 - CORRECAO/ UX ; 28/11/2017
 		1.1 - REDUCAO ; 29/11/2017
 */
+
+
 //////////////////////////////////////////////////////// ERROS/BUGS ////////////////////////////////////////////////////////////////
 /*
 - 1 BUG : Digitar uma letra nos MENUS, ele entra em loop. CORRIGIDO
